@@ -7,8 +7,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8f26c91c-f969-437c-ae10-a04bbd4681ca/W+NK+DF+FAST+MR+7%2F8+TIGHT+SW.png",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 25,
         description: "Leggins de running de 7/8 con bolsillos",
@@ -35,8 +35,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://nikearprod.vtexassets.com/arquivos/ids/880498-800-800?width=800&height=800&aspect=true",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 10,
         description: "Remera de Running para Hombre",
@@ -63,8 +63,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://static.wixstatic.com/media/9a122a_8fb26f4ce77242afab95bd8b0282261b~mv2.jpg/v1/fill/w_550,h_938,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9a122a_8fb26f4ce77242afab95bd8b0282261b~mv2.jpg",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 8,
         description: "Triangulo clasico / cebra azul camel bordada",
@@ -91,8 +91,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/426517b1-d66c-4591-aeb7-d047f7f3e43d/W+NP+365+TIGHT.png",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 10,
         description: "Leggings de talle medio con paneles de malla",
@@ -119,8 +119,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://underarmourbr.vtexassets.com/arquivos/ids/348012-800-auto?v=638654681448200000&width=800&height=auto&aspect=true",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 5,
         description: "Comoda para entrenamiento en dias calurosos",
@@ -147,8 +147,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2d7e906c29474168b17624e083940d73_9366/Chaqueta_Run_It_Negro_IL2286_HM3_hover.jpg",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 12,
         description: "Campera de Running Adidas para hombre",
@@ -175,8 +175,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bb8a179c1fea4fb3b48af46bc390dd48_9366/Shorts_Legging_Corrida_Adizero_Control_Preto_IK9712_HM1.jpg",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 10,
         description: "Perfecta para competencias y entrenamientos rápidos",
@@ -203,8 +203,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://underarmourbr.vtexassets.com/arquivos/ids/335670-800-auto?v=638536355280370000&width=800&height=auto&aspect=true",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 2,
         description: "Legging Under Armour vanish Elite Vent",
@@ -231,8 +231,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a02689a61e8a428fb7730428096e7bf0_9366/Camiseta_corta_de_manga_larga_Hyperglam_Training_Negro_IN6773_HM1.jpg",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 40,
         description: "Remera para Entrenamiento Hyperglam Training",
@@ -259,8 +259,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f34d9ed66f0740c78bbe4230a7bf97e9_9366/Chaqueta_New_York_City_Rojo_IW9234_HM1.jpg",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 35,
         description: "Campera New York City Running",
@@ -287,8 +287,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1977950a004342289297c454c46d7f85_9366/Braguita_de_bikini_Iconisea_Mid-Waist_Negro_IM7700_21_model.jpg",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 1,
         description: "Braguita de Bikini Iconisea Mid-Waist",
@@ -315,8 +315,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/216a1ebe597441cc9f200cf1def17494_9366/Shorts_Legging_Optime_4-Inch_Raw-Cut-Hem_Azul_IK5482_21_model.jpg",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 15,
         description: "Short Legging Optime 4 Adidas",
@@ -343,8 +343,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fe99d21cc90e405081d6edd1ea7700f7_9366/Banador_Extra-Long-Life_3_bandas_Negro_IL7275_21_model.jpg",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 4,
         description: "Bañador extra Long-Life 3 Bandas",
@@ -371,8 +371,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://underarmourbr.vtexassets.com/arquivos/ids/163153-800-auto?v=637488703286900000&width=800&height=auto&aspect=true",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 10,
         description: "Legging Capri Under Armour Print",
@@ -399,8 +399,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://nikearprod.vtexassets.com/arquivos/ids/845348-800-800?width=800&height=800&aspect=true",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 12,
         description: "Campera de Entrenamiento para Hombre",
@@ -427,8 +427,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aab6128a-f67d-4bed-8d39-caefb966ad2f/W+NK+SWIFT+SF+JKT.png",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 12,
         description: "Campera de running - Mujer",
@@ -455,8 +455,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a773184438b24f138545ed091a0d6648_9366/Bikini_Big_Bars_Negro_IS4726_21_model.jpg",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 8,
         description: "Bikini BigBars Natacion Mujer",
@@ -483,8 +483,8 @@ const products = [
         imgs:
         {
             imgProduct: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/54bfa3657d754acb9bbbd114b13a7a2e_9366/Bikini_Pride_Pabllo_Vittar_Blanco_IV8311_21_model.jpg",
-            imgSoldOut: "img/agotado.jpg",
-            imgStar: "img/oferta.jpg",
+            imgSoldOut: "/img/soldOut.jpg",
+            imgStar: "/img/estrella.jpg",
         },
         stock: 8,
         description: "Bikini Pride Pabllo Vittar",
