@@ -1,0 +1,12 @@
+
+.nav-link{
+    color: white;
+    text-decoration: none;
+}
+.nav-link:hover{
+    color: orange;
+}
+.active-link{
+    color: orange !important;
+    font-weight: 600;
+}
