@@ -16,7 +16,7 @@ function App() {
         <>
             <BrowserRouter>
                 <NavBar/>
-                <Routes>
+                <Routes basename="reactjs-63390-segundaentrega">
                     <Route path='/' element={<Home/>}/>
                     <Route path='/productos' element={<ItemListContainer/>}/>
                     <Route path='/productos/category/:categoryId' element={<ItemListContainer/>}/>

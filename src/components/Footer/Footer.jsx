@@ -15,7 +15,7 @@ function Footer() {
                 <div className='footerlinks'>
                     <div className='footerlinksdiv'>
 
-                        <Link ><img src="/img/yesport_logo.jpg" /></Link>
+                        <Link ><img src="img/yesport_logo.jpg" /></Link>
                         <p>Lider Deportivo - Todo lo que buscas en un solo lugar</p>
                     </div>
 

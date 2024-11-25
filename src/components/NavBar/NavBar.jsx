@@ -11,7 +11,7 @@ export default function NavBar() {
     return (
         <nav className="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
             <div className="container-fluid">
-                <Link className="navbar-brand" to="/"><img style={{ width: "50px" }} src="/img/yesport_logo.jpg" alt="logo" /></Link>
+                <Link className="navbar-brand" to="/"><img style={{ width: "50px" }} src="img/yesport_logo.jpg" alt="logo" /></Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
