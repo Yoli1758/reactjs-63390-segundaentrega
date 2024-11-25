@@ -14,9 +14,9 @@ import 'react-toastify/dist/ReactToastify.css'
 function App() {
     return (
         <>
-            <BrowserRouter>
+            <BrowserRouter basename="reactjs-63390-segundaentrega">
                 <NavBar/>
-                <Routes basename="reactjs-63390-segundaentrega">
+                <Routes >
                     <Route path='/' element={<Home/>}/>
                     <Route path='/productos' element={<ItemListContainer/>}/>
                     <Route path='/productos/category/:categoryId' element={<ItemListContainer/>}/>
