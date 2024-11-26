@@ -1,0 +1,5 @@
+.change-placeholder::placeholder{
+    color: red !important;
+    font-size: 8px;
+    font-style: italic;
+}
